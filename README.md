@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Ski11-pro
+- 👀 I’m interested in how thinks work.
+- 🌱 I’m currently learning C
