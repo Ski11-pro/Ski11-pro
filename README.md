@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @Ski11-pro
+- 👋 Hi, I’m @Ski11
 - 👀 I’m interested in .net
-- 🌱 I’m currently learning C# 
+- 🌱 I’m currently learning Lua
+- I can some C#.
