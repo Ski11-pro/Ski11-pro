@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Ski11
 - 👀 I’m interested in .net
 - 🌱 I’m currently learning Lua
-- I can some C#.
+- Can some C#.
+- Website: http://www.ski11.net/
